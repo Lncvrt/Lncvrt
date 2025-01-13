@@ -1,6 +1,6 @@
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lncvrt&theme=dark&show_icons=true&locale=en&layout=compact" alt="Lncvrt" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=Lncvrt&theme=dark&show_icons=true&locale=en" alt="Lncvrt" /></p>
-  <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lncvrt&theme=dark" alt="GitHub Streak" /></a></p>
+  <p><img src="(https://streak-stats.demolab.com/?user=Lncvrt&theme=dark" alt="GitHub Streak" /></p>
   <p>Note: if you see a repository with the description starting with [H], that means it was hidden from my site when it existed.</p>
 </div>
