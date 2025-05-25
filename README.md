@@ -1,5 +1,5 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-<p>The closes PRs are from Dependabot spamming my repos</p>
+<p>The closed PRs are from Dependabot spamming my repos</p>
 <h1>these things (i would never steal them from someone named puppet)</h1>
 <div align="center">
 
